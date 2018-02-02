@@ -1,0 +1,25 @@
+img {
+	border: white 1px dotted;
+}
+
+body>img {
+	width: 48%;
+	height: 400px;
+	margin: 10px;
+	border: white 1px dotted;
+}
+
+body {
+	background-color: #704010;
+	font-family: Pacifico, cursive;
+}
+
+h2 {
+	font-size:70px;
+	color: white;
+	text-align: center;
+}
+
+hr {
+	width: 90%;
+}
